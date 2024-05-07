@@ -1,0 +1,16 @@
+{
+  "name": "ymay",
+  "type": "package",
+  "blockId": "V0oIMczj26dd5kUKv8aK6",
+  "source": {
+    "branch": "block_ymay"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "variantOf": "gvyIFrqUPnKiT6Gh0HEeo",
+  "variantOfBlockId": "ngWStAnsA8agtzf9J3IAt"
+}
