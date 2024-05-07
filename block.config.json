@@ -14,5 +14,7 @@
   ],
   "repoType": "mono",
   "variantOf": "gvyIFrqUPnKiT6Gh0HEeo",
-  "variantOfBlockId": "ngWStAnsA8agtzf9J3IAt"
+  "variantOfBlockId": "ngWStAnsA8agtzf9J3IAt",
+  "dependencies": {},
+  "version": "0.0.1"
 }
