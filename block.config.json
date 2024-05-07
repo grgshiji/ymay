@@ -3,7 +3,9 @@
   "type": "package",
   "blockId": "V0oIMczj26dd5kUKv8aK6",
   "source": {
-    "branch": "block_ymay"
+    "branch": "block_ymay",
+    "ssh": "git@github.com:grgshiji/ymay.git",
+    "https": "https://github.com/grgshiji/ymay.git"
   },
   "parentBlockIDs": [],
   "isPublic": true,
